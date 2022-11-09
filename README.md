@@ -1,6 +1,6 @@
 
+![UnhappySnoopyCavy-size_restricted](https://user-images.githubusercontent.com/92182743/200956305-6c23ada6-bf58-4126-ba7b-66bfd0b63be9.gif)
 
-![giphy](https://user-images.githubusercontent.com/92182743/200956109-ce2fa6fd-c961-4d64-81fa-6df0ac508dac.gif)
 
 
 
