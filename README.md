@@ -8,7 +8,7 @@
 
 <p align="center"> "You can't connect the dots looking forward, You can only connect them looking backward." -Steve Jobs </p>
 
-<p align="center"> I was involved with both a performing arts center and a journalism class during my high school years. And for as long as I can remember I was always drawing. My passion for art led me to try freelancing and earn some money with my skills. And during this time I looked back at all the the things I enjoyed doing and programs I was apart of, and found an overlap of storytelling.
+<p> I was involved with both a performing arts center and a journalism class during my high school years. And for as long as I can remember I was always drawing. My passion for art led me to try freelancing and earn some money with my skills. And during this time I looked back at all the the things I enjoyed doing and programs I was apart of, and found an overlap of storytelling.
 
 Through journalism, performing on stage, and art I told stories. And while the thought of it was perhaps whimsical growing up I pondered at what I would do if I could make video games.
 
