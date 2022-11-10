@@ -23,6 +23,7 @@ While my personal goals are to create my own video games, I am excited to learn 
   </a>
   <a href="www.linkedin.com/in/hsamuel-backenddev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="hsamuel-backenddev" height="30" width="40" />
   </a>
 </p>
 
