@@ -17,6 +17,14 @@ Then I pursued my interest in programming and found it quite similar to my art e
 While my personal goals are to create my own video games, I am excited to learn from and contribute to a team of professionals in this industry.
  </p>
 
+<h4 align="left">Connect with me:</h3>
+
+<p align="left"
+  </a>
+  <a href="www.linkedin.com/in/hsamuel-backenddev" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+  </a>
+</p>
 
 
 
